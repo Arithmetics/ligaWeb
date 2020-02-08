@@ -1,0 +1,2 @@
+# ligaWeb
+static
